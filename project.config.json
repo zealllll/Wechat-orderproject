@@ -13,9 +13,10 @@
 	},
 	"appid": "wx39eccda64ae50120",
 	"projectname": "cloudtest",
-	"libVersion": "2.2.5",
+	"libVersion": "2.7.0",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
 	"condition": {
 		"search": {
 			"current": -1,

@@ -7,10 +7,16 @@
 display:flex;
 border-bottom:1px solid #E3E3E3;
 }
+.item-sub {
+  height: 20px;
+  width:20px;
+  margin-left: 150rpx;
+  margin-right:10rpx;
+}
 .item-add {
   height: 20px;
   width:20px;
-  margin-left:200rpx;
+  margin-left:10rpx;
 }
 .list-image-box{
   width:160rpx;

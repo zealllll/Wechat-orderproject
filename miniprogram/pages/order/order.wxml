@@ -9,6 +9,8 @@
           <view>{{items.name}}</view>
           <view style='margin-top:20rpx;color:#F05A86'>
             $ {{items.price}}.00
+            <image class='item-sub' src="	../../images/sub.PNG" data-type="{{index}}" data-index="{{indexs}}" bindtap="subItem"></image>
+            {{item_number[indexs]}}
             <image class='item-add' src="	../../images/add.PNG" data-type="{{index}}" data-index="{{indexs}}" bindtap="addItem"></image>
           </view>
     </view>
